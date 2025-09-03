@@ -1,0 +1,13 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "Implement Tactical Battle Map, Groups System, and Combat Participation Management",
+        "details": "Add three major features: 1) Interactive grid-based battle map with drag-and-drop character positioning and obstacle placement, 2) Groups system for organizing characters and managing turn order by groups, and 3) Combat participation system to select which characters/groups join combat. All features should work seamlessly together for both PCs and NPCs.",
+        "status": "completed",
+        "priority": "high"
+      }
+    }
+  }
+}
